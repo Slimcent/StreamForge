@@ -1,4 +1,12 @@
 <Solution>
+  <Folder Name="/docs/">
+    <File Path="architecture.md" />
+    <File Path="decisions.md" />
+  </Folder>
+  <Folder Name="/docs/development/">
+    <File Path="001-project-foundation.md" />
+    <File Path="CHANGELOG.md" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/StreamForge.Ingestion/StreamForge.Ingestion.csproj" />
     <Project Path="src/StreamForge.Models/StreamForge.Models.csproj" />
