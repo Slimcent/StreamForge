@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/docs/" />
+  <Folder Name="/docs/development/" />
+  <Folder Name="/src/">
+    <Project Path="src/StreamForge.Ingestion/StreamForge.Ingestion.csproj" />
+    <Project Path="src/StreamForge.Models/StreamForge.Models.csproj" />
+    <Project Path="src/StreamForge.Processor/StreamForge.Processor.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="StreamForge.Ingestion.Tests/StreamForge.Ingestion.Tests.csproj" />
+    <Project Path="StreamForge.Processor.Tests/StreamForge.Processor.Tests.csproj" />
+  </Folder>
+</Solution>
